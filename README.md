@@ -15,6 +15,13 @@ source <(curl -s https://raw.github.com/RodrigoAyala/nodejs-pi-installer/master/
 
 And That's It!
 
+Screenshot:
+-----------
+
+This is how it looks:
+
+![NodeJS installer screenshot](https://dl.dropboxusercontent.com/u/2046758/NodeJS%20Installer%20on%20RaspberryPi.png "NodeJS installer screenshot :)")
+
 Tests:
 ------
 
